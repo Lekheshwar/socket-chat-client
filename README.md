@@ -2,8 +2,12 @@
 ### [Live Demo](https://socket-chat-react-app.netlify.app/)
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/66664839/117815365-04726d80-b283-11eb-80aa-a326708d02a2.png)
+
 ![Screenshot (18)](https://user-images.githubusercontent.com/66664839/117815368-063c3100-b283-11eb-8e8a-6c797af79883.png) 
-![Screenshot (20)](https://user-images.githubusercontent.com/66664839/117815378-0805f480-b283-11eb-89b5-2f6ad7c57440.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Screenshot (21)](https://user-images.githubusercontent.com/66664839/117816450-23253400-b284-11eb-88bb-9495c52e4dff.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/66664839/117815378-0805f480-b283-11eb-89b5-2f6ad7c57440.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Screenshot (21)](https://user-images.githubusercontent.com/66664839/117816450-23253400-b284-11eb-88bb-9495c52e4dff.png)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
